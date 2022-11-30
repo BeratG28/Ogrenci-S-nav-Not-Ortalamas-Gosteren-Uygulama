@@ -1,4 +1,8 @@
-﻿using System;
+https://gelecegiyazanlar.turkcell.com.tr/konu/egitim/c-ile-algoritma-ve-programlama-101/ogrenci-sinav-not-uygulamasi
+
+
+
+using System;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
